@@ -2,7 +2,7 @@
 
 ## What the Game Looks Like
 
-![alt text](insert link to image here)
+![alt text](https://github.com/mtodtling/fend-project-arcade-game/blob/master/images/Game.PNG)
 
 ## How the Game Works
 The goal of the game is to get the player to reach the water, without colliding into any one of the enemies (bugs).
