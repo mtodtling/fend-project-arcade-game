@@ -13,7 +13,7 @@ The goal of the game is to get the player to reach the water, without colliding 
 - Once the player reaches the water (i.e., the top of the game board), the game is won
 
 ## How to Run the Game
-1. Play the game in your browser by following this link: https://mtodtling.github.io/fend-project-arcade-game/.
+1. Play the game in your browser by following this link: https://mtodtling.github.io/fend-project-arcade-game/ (keyboard input only, not available on touch screens yet).
 
 Alternatively,
 1. Download or clone the repository.
